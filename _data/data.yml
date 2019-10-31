@@ -47,11 +47,11 @@ sidebar:
 career-profile:
     title: Briefly about me and programming
     summary: |
-      I started with programming almost 20 years ago. During elementary and high school I took part (quite successfully) in math and programming competitions. And at high school we had externists from ČVUT and matfyz for our IT classes. Then I started to study IT at MFF UK, which I never finished.
-      
-      In 2009 I started to work as (junior) web developer in web agencies. First few year Genes Media, later I joined WeDeCom. Some time I also worked for Webtrh.
-      
-      After I stopped trying to pursuit my college degree I joined <a href="https://skrz.cz">Skrz.cz</a> (January 2016) where I got most of my experience.
+        I started with programming almost 20 years ago. During elementary and high school I took part (quite successfully) in math and programming competitions. And at high school we had externists from ČVUT and matfyz for our IT classes. Then I started to study IT at MFF UK, which I never finished.
+        
+        In 2009 I started to work as (junior) web developer in web agencies. First few year Genes Media, later I joined WeDeCom. Some time I also worked for Webtrh.
+        
+        After I stopped trying to pursuit my college degree I joined <a href="https://skrz.cz">Skrz.cz</a> (January 2016) where I got most of my experience.
 
 my-role:
     title: My story at Skrz.cz
@@ -59,6 +59,7 @@ my-role:
         I joined as regular backend developer. When my former boss Jan Klat left, I was offered position of lead developer which I accepted.
 
         Since then my responsibilities (additional to still being developer) are:
+
           - Creating product roadmap with CEO and product owner
           - Analysis of complex problems
           - Keeping our tech-stack up to date
@@ -68,15 +69,18 @@ my-role:
 why-me:
     title: Why would you want ME?
     summary: |
-        - I'm fast learner (ask Petr Kováčik, my former CEO or Jan Klat, my former CTO)
-        - I understand both dev and product side of problems (ask my actual CEO Matěj Dvorský or product owner Miroslav Honysch)
-        - People I work with respect me. And I respect them (ask my colleagues Luboš and Šimon)
-        - I don't see problems and obstacles. I see challenges and puzzles to solve!
+        something
+
+          - I'm fast learner (ask Petr Kováčik, my former CEO or Jan Klat, my former CTO)
+          - I understand both dev and product side of problems (ask my actual CEO Matěj Dvorský or product owner Miroslav Honysch)
+          - People I work with respect me. And I respect them (ask my colleagues Luboš and Šimon)
+          - I don't see problems and obstacles. I see challenges and puzzles to solve!
 
 tech-stack:
     title: My tech stack from Skrz
     summary: |
         This is just list of tools and languages I've been using most during my work at Skrz. I don't see any problem in switching to other languages and tools.
+
           - PHP + Symfony
           - MySQL / MariaDB
           - Elasticsearch, Elasticstack, Kibana
@@ -92,6 +96,7 @@ looking-for:
     title: What I'm looking for
     summary: |
         I'm not in any hurry to find something new, but I'm definitely looking for:
+
           - Project(s) I'll enjoy working on
           - People I'll enjoy working with
           - Challenges I'll enjoy solving
@@ -102,6 +107,7 @@ other-stuff:
     title: Things I enjoy beside my work and other IT other-stuff
     summary: |
         Most of time I spend in front of computer, but not all of it :)
+
           - <i class="fas fa-compass"></i> Most of time now consumes travelling with my family (wife, son and dog). 
           - <i class="fas fa-compass"></i> I like sports - running, skiing, cycling etc.
           - <i class="fas fa-book-reader"></i> When I find some spare time and energy I also like to read (lately mostly Stephen King books).
@@ -251,4 +257,3 @@ other-stuff:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-]

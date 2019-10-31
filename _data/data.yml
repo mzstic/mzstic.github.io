@@ -104,13 +104,13 @@ looking-for:
           - Dog friendly office not too far from Prague - Malešice
 
 other-stuff:
-    title: Things I enjoy beside my work and other IT other-stuff
+    title: Things I enjoy beside my work and other IT-stuff
     summary: |
         Most of time I spend in front of computer, but not all of it :)
 
           - <i class="fas fa-compass"></i> Most of time now consumes travelling with my family (wife, son and dog). 
-          - <i class="fas fa-compass"></i> I like sports - running, skiing, cycling etc.
-          - <i class="fas fa-book-reader"></i> When I find some spare time and energy I also like to read (lately mostly Stephen King books).
+          - <i class="fas fa-running"></i> I like sports - running, skiing, cycling etc.
+          - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (lately mostly Stephen King books).
           - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in english) like tmou, matrix, etc.
 
 

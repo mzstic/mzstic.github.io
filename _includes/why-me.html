@@ -1,0 +1,18 @@
+{% assign why-me = site.data.data.why-me %}
+{% if why-me %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas question-circle fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ why-me.title }}
+  </h2>
+
+  <div class="summary">
+    {{ why-me.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

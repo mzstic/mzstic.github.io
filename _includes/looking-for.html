@@ -1,0 +1,18 @@
+{% assign looking-for = site.data.data.looking-for %}
+{% if looking-for %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-search fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ looking-for.title }}
+  </h2>
+
+  <div class="summary">
+    {{ looking-for.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}

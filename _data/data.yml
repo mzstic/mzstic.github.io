@@ -76,18 +76,17 @@ why-me:
 tech-stack:
     title: My tech stack from Skrz
     summary: |
-        - PHP + Symfony
-        - MySQL / MariaDB
-        - Elasticsearch, Elasticstack, Kibana
-        - RabbitMQ
-        - Redis
-        - Golang
-        - Jira
-        - Sentry
-        - PHPStorm
-        - ... and many more
-
-      This is just list of tools and languages I've been using most during my work at Skrz. I don't see any problem in switching to other languages and tools.
+        This is just list of tools and languages I've been using most during my work at Skrz. I don't see any problem in switching to other languages and tools.
+          - PHP + Symfony
+          - MySQL / MariaDB
+          - Elasticsearch, Elasticstack, Kibana
+          - RabbitMQ
+          - Redis
+          - Golang
+          - Jira
+          - Sentry
+          - PHPStorm
+          - ... and many more
 
 looking-for:
     title: What I'm looking for

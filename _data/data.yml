@@ -69,10 +69,8 @@ my-role:
 why-me:
     title: Why would you want ME?
     summary: |
-        something
-
           - I'm fast learner (ask Petr Kováčik, my former CEO or Jan Klat, my former CTO)
-          - I understand both dev and product side of problems (ask my actual CEO Matěj Dvorský or product owner Miroslav Honysch)
+          - I understand both technological and product side of problems (ask my current CEO Matěj Dvorský or product owner Miroslav Honysch)
           - People I work with respect me. And I respect them (ask my colleagues Luboš and Šimon)
           - I don't see problems and obstacles. I see challenges and puzzles to solve!
 
@@ -109,7 +107,7 @@ other-stuff:
         Most of time I spend in front of computer, but not all of it :)
 
           - <i class="fas fa-compass"></i> Most of time now consumes travelling with my family (wife, son and dog). 
-          - <i class="fas fa-running"></i> I like sports - running, skiing, cycling etc.
+          - <i class="fas fa-bicycle"></i> I like sports - running, skiing, cycling etc.
           - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (lately mostly Stephen King books).
           - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in english) like tmou, matrix, etc.
 

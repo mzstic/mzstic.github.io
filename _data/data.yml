@@ -45,39 +45,38 @@ sidebar:
         link:
 
 career-profile:
-    title: Briefly about me and programming
+    title: Briefly about me and my programming
     summary: |
-        I started with programming almost 20 years ago. During elementary and high school I took part (quite successfully) in math and programming competitions. And at high school we had externists from ČVUT and matfyz for our IT classes. Then I started to study IT at MFF UK, which I never finished.
+        I started with programming almost 20 years ago. During elementary and high school I took part (quite successfully) in math and programming competitions. At high school people from ČVUT and MFF UK led our IT lessons, which inspired me to study IT at MFF UK. I successfully finished 9 semesters.
         
-        In 2009 I started to work as (junior) web developer in web agencies. First few year Genes Media, later I joined WeDeCom. Some time I also worked for Webtrh.
+        In 2009 I started to work as a (junior) web developer in web agencies. First few years at Genes Media, later I joined WeDeCom. Some time I also worked for Webtrh.
         
-        After I stopped trying to pursuit my college degree I joined <a href="https://skrz.cz">Skrz.cz</a> (January 2016) where I got most of my experience.
+        After I stopped trying to pursuit my college degree I joined <a href="https://skrz.cz">Skrz.cz</a> (January 2016) where I've got most of my current experience.
 
 my-role:
     title: My story at Skrz.cz
     summary: |
-        I joined as regular backend developer. When my former boss left, I was offered position of lead developer which I accepted.
+        In January 2016 I joined as a regular backend developer. In March 2017 I was offered a position of a lead developer which I accepted.
 
-        Since then my responsibilities (additional to still being developer) are:
+        Since then my standard developer responsibilities have been extended mainly by:
 
-          - Creating product roadmap with CEO and product owner
+          - Creating product roadmaps with CEO and product owner
           - Analysis of complex problems
-          - Keeping our tech-stack up to date
+          - Keeping our company tech-stack up to date
           - Interviews with new candidates
-          - Anything else regarding DEV you could think of :)
 
 why-me:
-    title: Why would you want ME?
+    title: Why might you want ME?
     summary: |
-          - I'm fast learner (ask Petr Kováčik, my former CEO or Jan Klat, my former CTO)
-          - I understand both technological and product side of problems (ask my current CEO Matěj Dvorský or product owner Miroslav Honysch)
+          - I'm a fast learner (ask my former CEO Petr Kováčik or my former CTO Jan Klat)
+          - I understand both technological and product side of SW development (ask my current CEO Matěj Dvorský or product owner Miroslav Honysch)
           - People I work with respect me. And I respect them (ask my colleagues Luboš and Šimon)
-          - I don't see problems and obstacles. I see challenges and puzzles to solve!
+          - Where others talk about problems and obstacles I see challenges and puzzles to be solved.
 
 tech-stack:
     title: My tech stack from Skrz
     summary: |
-        This is just list of tools and languages I've been using most during my work at Skrz. I don't see any problem in switching to other languages and tools.
+        This is a list of tools and languages I've been intensively using during my work at Skrz, but I don't have a problem to learn anything new.
 
           - PHP + Symfony
           - MySQL / MariaDB
@@ -93,23 +92,23 @@ tech-stack:
 looking-for:
     title: What I'm looking for
     summary: |
-        I'm not in any hurry to find something new, but I'm definitely looking for:
+        I'm not in any hurry to find a new job, but I'm definitely looking for:
 
           - Project(s) I'll enjoy working on
           - People I'll enjoy working with
           - Challenges I'll enjoy solving
-          - Work that will push me forward
+          - Work that will enable improving my skills
           - Dog friendly office not too far from Prague - Malešice
 
 other-stuff:
-    title: Things I enjoy beside my work and other IT-stuff
+    title: Things I enjoy beside my work and other IT stuff
     summary: |
-        Most of time I spend in front of computer, but not all of it :)
+        I spend most of time in front of computer, but not all of it :)
 
-          - <i class="fas fa-compass"></i> Most of time now consumes travelling with my family (wife, son and dog). 
+          - <i class="fas fa-compass"></i> I love travelling with my family (wife, son and dog). 
           - <i class="fas fa-bicycle"></i> I like sports - running, skiing, cycling etc.
-          - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (lately mostly Stephen King books).
-          - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in english) like tmou, matrix, etc.
+          - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (Stephen King, sci-fi, fantasy).
+          - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in English) like "Tmou", "Matrix", etc.
 
 
 # education:

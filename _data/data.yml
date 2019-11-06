@@ -65,6 +65,16 @@ my-role:
           - Keeping our company tech-stack up to date
           - Interviews with new candidates
 
+        It would be really long list to mention everything I've worked on at Skrz, but at least some interesting things
+          - Importing and processing data from our partners. And transforming them into our DB structure (not as easy as it may sound).
+          - Automatical categorization and localization of every offer. You can read something about it <a href="https://medium.com/@skrzCzDev/jak-p%C3%A1rujeme-nab%C3%ADdky-k-hotel%C5%AFm-aneb-nen%C3%AD-kleopatra-jako-kleopatra-d169ccbebc98">here</a>.
+          - Setup of Elasticstack for monitoring (<a href="https://medium.com/@skrzCzDev/jak-se-nezbl%C3%A1znit-z-log%C5%AF-be9ebb7398d9">article here</a>)
+          - Launching our first foreign mutation <a href="https://sortado.pl">sortado.pl</a>
+          - Automatically ranking and sorting of >100K deals (<a href="https://www.zdrojak.cz/clanky/jak-skrz-cz-radi-20k-nabidek-podle-real-time-analytiky/">some quite old article, we've moved forwards since than, but there's no article about it yet.</a>)
+          - Connecting with external APIs (FB, google ads, sklik) and automatically creating, turning on/off ads based on our actual conten.
+          - Automatization of everything (either way you make things work automatically or you hire some monkeys:) ).
+
+
 why-me:
     title: Why might you want ME?
     summary: |

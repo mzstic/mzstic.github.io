@@ -68,9 +68,9 @@ my-role:
 why-me:
     title: Why might you want ME?
     summary: |
-          - I'm a fast learner (ask my former CEO Petr Kováčik or my former CTO Jan Klat)
-          - I understand both technological and product side of SW development (ask my current CEO Matěj Dvorský or product owner Miroslav Honysch)
-          - People I work with respect me. And I respect them (ask my colleagues Luboš and Šimon)
+          - I'm a fast learner (ask my former CEO <a href="https://www.linkedin.com/in/petrkovacik/">Petr Kováčik</a> or my former CTO <a href="https://www.linkedin.com/in/klatys/">Jan Klat</a>)
+          - I understand both technological and product side of SW development (ask my current CEO <a href="https://www.linkedin.com/in/matejdvorsky/">Matěj Dvorský</a> or product owner <a href="https://www.linkedin.com/in/honysch/">Miroslav Honysch</a>)
+          - People I work with respect me. And I respect them (ask my colleagues <a href="https://www.linkedin.com/in/lubom%C3%ADr-ji%C5%99i%C5%A1ta/">Lubomír Jiřišta</a> and <a href="https://www.linkedin.com/in/%C5%A1imon-stekl%C3%ADk-a75113149/">Šimon Steklík</a>)
           - Where others talk about problems and obstacles I see challenges and puzzles to be solved.
 
 tech-stack:

@@ -1,4 +1,4 @@
-{% assign my-role = site.data.data.my-role %}
+{% assign my-role = site.data.data[include.key | default: "my-role"] %}
 {% if my-role %}
 <section class="section summary-section">
 

@@ -1,4 +1,4 @@
-{% assign tech-stack = site.data.data.tech-stack %}
+{% assign tech-stack = site.data.data[include.key | default: "tech-stack"] %}
 {% if tech-stack %}
 <section class="section summary-section">
 

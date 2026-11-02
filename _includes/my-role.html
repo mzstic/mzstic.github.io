@@ -1,6 +1,12 @@
-{% assign my-role = site.data.data[include.key | default: "my-role"] %}
+{% assign data_key = include.key | default: "my-role" %}
+{% assign my-role = site.data.data[data_key] %}
 {% if my-role %}
 <section class="section summary-section">
+
+  {% if my-role.headline %}
+  <h1>{{ my-role.headline }}</h1>
+  <br/>
+  {% endif %}
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">

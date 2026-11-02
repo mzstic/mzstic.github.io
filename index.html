@@ -3,18 +3,24 @@ layout: default
 ---
 
 
+{% include tldr.html %}
+
 {% include career-profile.html %}
 
 {% unless site.data.data.sidebar.education %}
   {% include education.html %}
 {% endunless %}
 
-{% include my-role.html %}
+{% include my-role.html key="pipedrive-role" %}
+
+{% include tech-stack.html key="pipedrive-tech-stack" %}
 
 {% include why-me.html %}
-
-{% include tech-stack.html %}
 
 {% include looking-for.html %}
 
 {% include other-stuff.html %}
+
+{% include my-role.html %}
+
+{% include tech-stack.html %}

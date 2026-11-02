@@ -3,123 +3,160 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Martin Patera
-    tagline: Lead Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Martin Patera
+  tagline: Senior Fullstack Engineer, leaning BE
+  avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: mzstic@gmail.com
-    phone: +420 606 814 700
-    website: mzstic.github.io #do not add http://
-    linkedin: martin-patera-8b97319a
-    github: mzstic
-    gitlab:
-    bitbucket:
-    twitter: '@mzstic'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: mzstic@gmail.com
+  phone: +420 606 814 700
+  website: mzstic.github.io #do not add http://
+  linkedin: martin-patera-8b97319a
+  github: mzstic
+  gitlab:
+  bitbucket:
+  twitter: "@mzstic"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Czech
-        level: Native
+  languages:
+    - idiom: Czech
+      level: Native
 
-      - idiom: English
-        level: Professional
+    - idiom: English
+      level: Professional
 
-      - idiom: German
-        level: Kind of dusty :)
+    - idiom: German
+      level: Kind of dusty :)
 
-    interests:
-      - item: Running
-        link:
+  interests:
+    - item: Running
+      link:
 
-      - item: Travelling
-        link:
+    - item: Travelling
+      link:
 
-      - item: Reading
-        link:
+    - item: Reading
+      link:
+
+tldr:
+  headline: Senior fullstack engineer (leaning toward backend), looking for new challenges
+  title: TL;DR
+  summary: |
+    - **Experience:** almost 7 years at <a href="https://www.pipedrive.com">Pipedrive</a> (January 2020 to November 2026), from backend engineer to senior engineer. Mostly on a platform team building features everyone else depends on: custom fields, search, import/export, filtering. Before that 4 years at <a href="https://skrz.cz">Skrz.cz</a>, up to lead developer, and web development since 2009.
+    - **Tech stack:** Node.js, TypeScript, Fastify, PHP and MySQL and several hundred microservices talking via REST and Kafka.
+    - **Good at:** hunting down slow things, owning complex epics and helping people around me grow.
+    - **Lately:** building AI skills, experimenting with end-to-end workflows to see where AI really helps in daily engineering and where it still lacks.
+    - **Looking for:** a remote-friendly setup with interesting problems and good people.
 
 career-profile:
-    title: Briefly about me and my programming
-    summary: |
-        I started with programming almost 20 years ago. During elementary and high school I took part (quite successfully) in math and programming competitions. At high school people from ČVUT and MFF UK led our IT lessons, which inspired me to study IT at MFF UK. I successfully finished 9 semesters.
-        
-        In 2009 I started to work as a (junior) web developer in web agencies. First few years at Genes Media, later I joined WeDeCom. Some time I also worked for Webtrh.
-        
-        After I stopped trying to pursuit my college degree I joined <a href="https://skrz.cz">Skrz.cz</a> (January 2016) where I've got most of my current experience.
+  title: Briefly about me and my programming
+  summary: |
+    I've been programming for almost 20 years. As a kid I took part (quite successfully) in math and programming competitions. At high school our IT lessons were led by people from ČVUT and MFF UK, which inspired me to study IT at MFF UK, where I finished 9 semesters.
 
-my-role:
-    title: My story at Skrz.cz
-    summary: |
-        In January 2016 I joined as a regular backend developer. In March 2017 I was offered a position of a lead developer which I accepted.
+    In 2009 I started as a junior web developer in various web agencies. In January 2016 I joined <a href="https://skrz.cz">Skrz.cz</a>, where I got my first deeper experience, including leading a development team.
 
-        Since then my standard developer responsibilities have been extended mainly by:
+    In January 2020 I moved to <a href="https://www.pipedrive.com">Pipedrive</a>, where I grew into senior engineering role and stayed until November 2026.
 
-          - Creating product roadmaps with CEO and product owner
-          - Analysis of complex problems
-          - Keeping our company tech-stack up to date
-          - Interviews with new candidates
+pipedrive-role:
+  title: My story at Pipedrive
+  summary: |
+    I joined Pipedrive in January 2020 as a backend engineer and stayed until November 2026, growing into an experienced senior fullstack engineer leaning toward backend.
 
-        It would be really long list to mention everything I've worked on at Skrz, but at least some interesting things
-          - Importing and processing data from our partners. And transforming them into our DB structure (not as easy as it may sound).
-          - Automatical categorization and localization of every offer. You can read something about it <a href="https://medium.com/@skrzCzDev/jak-p%C3%A1rujeme-nab%C3%ADdky-k-hotel%C5%AFm-aneb-nen%C3%AD-kleopatra-jako-kleopatra-d169ccbebc98">here</a>.
-          - Setup of Elasticstack for monitoring (<a href="https://medium.com/@skrzCzDev/jak-se-nezbl%C3%A1znit-z-log%C5%AF-be9ebb7398d9">article here</a>)
-          - Launching our first foreign mutation <a href="https://sortado.pl">sortado.pl</a>
-          - Automatically ranking and sorting of >100K deals (<a href="https://www.zdrojak.cz/clanky/jak-skrz-cz-radi-20k-nabidek-podle-real-time-analytiky/">some quite old article, we've moved forwards since than, but there's no article about it yet.</a>)
-          - Connecting with external APIs (FB, google ads, sklik) and automatically creating, turning on/off ads based on our actual conten.
-          - Automatization of everything (either way you make things work automatically or you hire some monkeys:) ).
+    My daily bread was Node.js and TypeScript on top of Fastify, with our own flavor of it and plugins tailored to our in-house tech. We ran several hundred microservices that talked to each other via RESTful APIs or Kafka queues.
 
+      - **Product team:** I started in a team building a brand new part of the product. Kinda combination of new product with needs of integrating it into the existing product.
+      - **Product platform team:** later I moved to a team building reusable parts for all the other features, like entity customization, searchability, import and export, filtering. Heavily used stuff that other teams and customers depend on with high expectations both in quality and performance.
+
+    Beyond the code, I wrote about <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">how our development environment evolved at Pipedrive, from a developer's perspective</a>.
+
+    **AI enters the room.** Lately AI has become a real part of how I work. I build various skills, improve skills other wrote and experiment with different setups and test end-to-end workflows to see where AI genuinely helps in day-to-day engineering.
+
+pipedrive-tech-stack:
+  title: My tech stack from Pipedrive
+  summary: |
+    What I used day to day at Pipedrive:
+
+      - Node.js + TypeScript
+      - Fastify (with our own framework layer and plugins)
+      - Microservice architecture (several hundred services)
+      - RESTful APIs
+      - Kafka
+      - PHP (a critical part of our infrastructure)
+      - MySQL (a critical part of our infrastructure)
+      - ... and more
 
 why-me:
-    title: Why might you want ME?
-    summary: |
-          - I'm a fast learner (ask my former CEO <a href="https://www.linkedin.com/in/petrkovacik/">Petr Kováčik</a> or my former CTO <a href="https://www.linkedin.com/in/klatys/">Jan Klat</a>)
-          - I understand both technological and product side of SW development (ask my current CEO <a href="https://www.linkedin.com/in/matejdvorsky/">Matěj Dvorský</a> or product owner <a href="https://www.linkedin.com/in/honysch/">Miroslav Honysch</a>)
-          - People I work with respect me. And I respect them (ask my colleagues <a href="https://www.linkedin.com/in/lubom%C3%ADr-ji%C5%99i%C5%A1ta/">Lubomír Jiřišta</a> and <a href="https://www.linkedin.com/in/%C5%A1imon-stekl%C3%ADk-a75113149/">Šimon Steklík</a>)
-          - Where others talk about problems and obstacles I see challenges and puzzles to be solved.
+  title: Why might you want ME?
+  summary: |
+    - I'm a fast learner.
+    - I understand and balance technological and the product needs and requirements.
+    - Where others see problems and obstacles, I see puzzles to solve.
+    - **I share what I learn.** My article on <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">our dev environment evolution</a> reportedly saved colleagues hours of troubleshooting.
+
+my-role:
+  headline: Earlier in my career
+  title: My story at Skrz.cz
+  summary: |
+    In January 2016 I joined as a regular backend developer. In March 2017 I was offered a position of a lead developer which I accepted.
+
+    Since then my developer duties were extended mainly by:
+
+      - Creating product roadmaps with CEO and product owner
+      - Analysis of complex problems
+      - Keeping our company tech-stack up to date
+      - Interviews with new candidates
+
+    The full list of what I worked on at Skrz would be really long, but here are some of the interesting bits:
+      - Importing and processing data from our partners. And transforming them into our DB structure (not as easy as it may sound).
+      - Automatic categorization and localization of every offer. You can read something about it <a href="https://medium.com/@skrzCzDev/jak-p%C3%A1rujeme-nab%C3%ADdky-k-hotel%C5%AFm-aneb-nen%C3%AD-kleopatra-jako-kleopatra-d169ccbebc98">here</a>.
+      - Setup of Elasticstack for monitoring (<a href="https://medium.com/@skrzCzDev/jak-se-nezbl%C3%A1znit-z-log%C5%AF-be9ebb7398d9">article here</a>)
+      - Launching our first foreign mutation <a href="https://sortado.pl">sortado.pl</a>
+      - Automatically ranking and sorting of >100K deals (<a href="https://www.zdrojak.cz/clanky/jak-skrz-cz-radi-20k-nabidek-podle-real-time-analytiky/">a quite old article, we've moved forward since then, but there's no newer one yet</a>)
+      - Connecting with external APIs (FB, google ads, sklik) and automatically creating, turning on/off ads based on our actual content.
+      - Automating everything (either you make things work automatically or you hire monkeys :) ).
 
 tech-stack:
-    title: My tech stack from Skrz
-    summary: |
-        This is a list of tools and languages I've been intensively using during my work at Skrz, but I don't have a problem to learn anything new.
+  title: My earlier tech stack from Skrz
+  summary: |
+    Tools and languages I used intensively at Skrz. I'm happy to learn anything new.
 
-          - PHP + Symfony
-          - MySQL / MariaDB
-          - Elasticsearch, Elasticstack, Kibana
-          - RabbitMQ
-          - Redis
-          - Golang
-          - Jira
-          - Sentry
-          - PHPStorm
-          - ... and many more
+      - PHP + Symfony
+      - MySQL / MariaDB
+      - Elasticsearch, Elasticstack, Kibana
+      - RabbitMQ
+      - Redis
+      - Golang
+      - Jira
+      - Sentry
+      - PHPStorm
+      - ... and many more
 
 looking-for:
-    title: What I'm looking for
-    summary: |
-        I'm not in any hurry to find a new job, but I'm definitely looking for:
+  title: What I'm looking for
+  summary: |
+    I'm not in any hurry to find a new job, but I'm definitely looking for:
 
-          - Project(s) I'll enjoy working on
-          - People I'll enjoy working with
-          - Challenges I'll enjoy solving
-          - Work that will enable improving my skills
-          - Dog friendly office not too far from Prague - Malešice
+      - Project(s) I'll enjoy working on
+      - People I'll enjoy working with
+      - Challenges I'll enjoy solving
+      - Work that will enable improving my skills
+      - Remote-friendly setup - hybrid or home office
 
 other-stuff:
-    title: Things I enjoy beside my work and other IT stuff
-    summary: |
-        I spend most of time in front of computer, but not all of it :)
+  title: Things I enjoy beside my work and other IT stuff
+  summary: |
+    I spend most of time in front of computer, but not all of it :)
 
-          - <i class="fas fa-compass"></i> I love travelling with my family (wife, son and dog). 
-          - <i class="fas fa-bicycle"></i> I like sports - running, skiing, cycling etc.
-          - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (Stephen King, sci-fi, fantasy).
-          - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in English) like "Tmou", "Matrix", etc.
-
+      - <i class="fas fa-compass"></i> I love travelling with my family (wife, three kids and our dog). 
+      - <i class="fas fa-bicycle"></i> I like sports - running, skiing, cycling etc.
+      - <i class="fas fa-book"></i> When I find some spare time and energy I also like to read (Stephen King, sci-fi, fantasy).
+      - <i class="fas fa-puzzle-piece"></i> I enjoy puzzle hunts (or whatever should it be called in English) like "Tmou", "Matrix", etc.
 
 # education:
 #     - degree: MSc in Computer Science
@@ -263,4 +300,4 @@ other-stuff:
 #         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

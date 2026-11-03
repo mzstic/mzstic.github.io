@@ -119,6 +119,7 @@ pipedrive-tech-stack:
       - Microservice architecture (several hundred services)
       - RESTful APIs
       - Kafka
+      - Observability, SLOs and on-call
       - PHP (a critical part of our infrastructure)
       - MySQL (a critical part of our infrastructure)
       - ... and more

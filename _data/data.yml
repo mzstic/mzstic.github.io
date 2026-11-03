@@ -48,11 +48,20 @@ tldr:
   headline: Senior fullstack engineer (leaning toward backend), looking for new challenges
   title: TL;DR
   summary: |
-    - **Experience:** almost 7 years at <a href="https://www.pipedrive.com">Pipedrive</a> (January 2020 to November 2026), from backend engineer to senior engineer. Mostly on a platform team building features everyone else depends on: custom fields, search, import/export, filtering. Before that 4 years at <a href="https://skrz.cz">Skrz.cz</a>, up to lead developer, and web development since 2009.
-    - **Tech stack:** Node.js, TypeScript, Fastify, PHP and MySQL and several hundred microservices talking via REST and Kafka.
-    - **Good at:** hunting down slow things, owning complex epics and helping people around me grow.
-    - **Lately:** building AI skills, experimenting with end-to-end workflows to see where AI really helps in daily engineering and where it still lacks.
-    - **Looking for:** a remote-friendly setup with interesting problems and good people.
+    One chapter ends, but when something ends, something else begins! ✨
+
+    7 years ago I joined <a href="https://www.pipedrive.com">Pipedrive</a> and never imagined such a ride. Recently my role was affected by layoffs. Sad news, but I'm leaving proud of what we built and grateful for the people I built it with. 🧡
+
+    🛠️ **What I bring**
+
+    - **Backend:** Node.js, TypeScript, Kafka, PHP
+    - **Reliability:** SLOs, observability, on-call experience
+    - **Migrations & legacy:** making big, risky changes safe
+    - **Teamwork:** mentoring, knowledge sharing, public speaking
+
+    🤖 **Lately:** AI by my side. I build my own skills and test end-to-end workflows to see where AI really helps in daily engineering and where it still lacks.
+
+    🔎 **What's next:** a backend or fullstack role with challenging problems, ideally remote or hybrid in Prague.
 
 career-profile:
   title: Briefly about me and my programming

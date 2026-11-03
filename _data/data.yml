@@ -127,10 +127,13 @@ pipedrive-tech-stack:
 why-me:
   title: Why might you want ME?
   summary: |
-    - I'm a fast learner.
+    If your team needs someone who learns fast, owns problems end to end and cares about the people around them, I'd love to talk.
+
+    - **I learn fast.** I joined Pipedrive with no TypeScript or Kafka experience, caught up quickly and built a new piece of the product.
+    - **I own problems end to end.** From fixing slowness and designing new parts of the system to risky migrations and SLOs for critical services.
+    - **I care about the people around me.** I onboard and mentor juniors, present at meetups, take part in the engineering career guild and write about <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">what I learn</a>.
     - I understand and balance technological and the product needs and requirements.
     - Where others see problems and obstacles, I see puzzles to solve.
-    - **I share what I learn.** My article on <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">our dev environment evolution</a> reportedly saved colleagues hours of troubleshooting.
 
 my-role:
   headline: Earlier in my career

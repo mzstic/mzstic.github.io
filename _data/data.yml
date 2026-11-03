@@ -77,14 +77,37 @@ pipedrive-role:
   summary: |
     I joined Pipedrive in January 2020 as a backend engineer and stayed until November 2026, growing into an experienced senior fullstack engineer leaning toward backend.
 
+    🚀 **The journey**
+
+    I joined with no experience in TypeScript, Kafka or most of the stack used there. I caught up quickly, built a new piece of the product, and grew into a senior engineer in a product platform team, working on features that are critical for all our customers.
+
     My daily bread was Node.js and TypeScript on top of Fastify, with our own flavor of it and plugins tailored to our in-house tech. We ran several hundred microservices that talked to each other via RESTful APIs or Kafka queues.
 
       - **Product team:** I started in a team building a brand new part of the product. Kinda combination of new product with needs of integrating it into the existing product.
       - **Product platform team:** later I moved to a team building reusable parts for all the other features, like entity customization, searchability, import and export, filtering. Heavily used stuff that other teams and customers depend on with high expectations both in quality and performance.
 
-    Beyond the code, I wrote about <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">how our development environment evolved at Pipedrive, from a developer's perspective</a>.
+    🛠️ **What I loved doing**
 
-    **AI enters the room.** Lately AI has become a real part of how I work. I build various skills, improve skills other wrote and experiment with different setups and test end-to-end workflows to see where AI genuinely helps in day-to-day engineering.
+    Complex technical problems of every kind:
+
+      - Fixing bugs and slowness in existing code
+      - Designing and building completely new parts of the system
+      - Endless migrations (you know the ones 😅)
+      - Helping set up SLOs for our most critical services
+
+    🌱 **Growing beyond code**
+
+      - Onboarding and mentoring junior colleagues
+      - Presenting at meetups
+      - Being part of the engineering career guild
+      - Writing about <a href="https://medium.com/pipedrive-engineering/dev-environment-evolution-in-pipedrive-from-a-developers-perspective-cdc8a5b7e3c1">how our development environment evolved at Pipedrive, from a developer's perspective</a>
+      - And most of all, working with amazing people. It was an honor. 💛
+
+    🌍 **How much changed**
+
+    7 years ago I wouldn't have believed I'd be working mostly from home, with the rest of my team in another country, and living outside of Prague. Or that I'd one day be doing all of this with AI by my side. 🤯 The world is changing faster and faster, and the best we can do is embrace it and make the most of it.
+
+    **AI enters the room.** Lately AI has become a real part of how I work. I build various skills, improve skills others wrote and experiment with different setups and test end-to-end workflows to see where AI genuinely helps in day-to-day engineering.
 
 pipedrive-tech-stack:
   title: My tech stack from Pipedrive
